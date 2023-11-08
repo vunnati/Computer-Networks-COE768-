@@ -1,0 +1,7 @@
+Lab2: 
+
+Part 1: TCP Connection Mechanism
+
+Q4: Find number of TCP packets exchanged to setup connection (using wireshark) 
+
+Q5: Terminate client process (keep server process running). Client termination causes TCP connection termination. Find number of TCP packets exchanged for TCP termination. 
